@@ -1,4 +1,4 @@
-# python-practice
+# python-machine-learning-practice
 ## Table of Contents
 - [糖尿病回归预测](##糖尿病回归预测)
 ## 糖尿病回归预测
